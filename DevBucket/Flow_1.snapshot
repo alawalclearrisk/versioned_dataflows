@@ -578,8 +578,8 @@
         "name" : "Dev_Process_Group",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 664.0,
-          "y" : 176.0
+          "x" : 800.0,
+          "y" : 248.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -885,7 +885,7 @@
           "properties" : {
             "Create Missing Directories" : "true",
             "Directory" : "/Users/alawal/crproject/result",
-            "Conflict Resolution Strategy" : "fail"
+            "Conflict Resolution Strategy" : "replace"
           },
           "propertyDescriptors" : {
             "Group" : {
@@ -1052,7 +1052,7 @@
             "y" : -128.0
           },
           "properties" : {
-            "Keep Source File" : "false",
+            "Keep Source File" : "true",
             "Minimum File Age" : "0 sec",
             "Polling Interval" : "0 sec",
             "Input Directory" : "/Users/alawal/crproject/data",
