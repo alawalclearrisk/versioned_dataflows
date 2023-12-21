@@ -2,5 +2,9 @@ flows:
   fccdc5fd-2644-48c9-87bf-a60318d06de7: {ver: 6, file: Flow_1.snapshot, comments: version6,
     author: 'CN=admin, OU=DE, O=CR, L=SJ, ST=NL, C=CA', created: 1702997087654, flowName: Flow_1,
     flowDesc: This the the first flow of the Process Group}
+  29711b30-5fcd-4a1a-baea-56d4437c0456: {ver: 1, file: SalesForceIntegrationTes1.snapshot,
+    comments: '', author: 'CN=admin, OU=DE, O=CR, L=SJ, ST=NL, C=CA', created: 1703177099799,
+    flowName: SalesForceIntegrationTes1, flowDesc: Version 1 of the SalesForce Integration
+      Testing}
 layoutVer: 1
 bucketId: b44264e1-9d99-4921-ab06-641639ef97c3
